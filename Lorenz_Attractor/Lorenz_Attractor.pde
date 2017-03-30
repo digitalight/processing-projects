@@ -18,7 +18,7 @@ void setup() {
   size(800,600, P3D);
   colorMode(HSB);
   background(0);
-  cam = new PeasyCam(this, 0);
+  cam = new PeasyCam(this, 300);
 }
 
 void draw() {
