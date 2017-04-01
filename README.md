@@ -4,6 +4,5 @@ Following the examples by Dan Shiffman @ https://www.youtube.com/channel/UCvjgXv
 
 List of projects:
 
-19 Mar 2017 - Starfield
+19 Mar 2017 - Starfield  
 26 Mar 2017 - Lorenz Attractor
-
